@@ -1,3 +1,6 @@
+> [!WARNING]
+> [Dreamacro/clash](https://github.com/Dreamacro/clash) 已经停止维护，故本仓库不再更新。您可以查看 [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) 和 [MetaCubeXD](https://github.com/MetaCubeX/metacubexd) 获取当前最新的工具。
+
 # Clash with Dashboard
 - 这是一个基于[Dreamacro/clash-dashboard](https://github.com/Dreamacro/clash-dashboard)修改的仓库
 - 项目用于将Dashboard管理页面直接打包进Clash的Docker镜像中，**实现一个容器同时启动Clash和Dashboard**
